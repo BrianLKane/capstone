@@ -17,7 +17,7 @@ My topic has changed since the beginning of capstone but not since our last 1:1.
 
 ### What is your timeline for the next week and a half? What do you have to get done versus what would you like to get done?
 
-![Capstone Schedule](capstone_calendar)
+![Capstone Schedule](capstone_calendar.png)
 
 ### What topics do you want to discuss during your 1:1?
 I’d like to confirm that I’m on the right track with my data frame assembly.
