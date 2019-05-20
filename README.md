@@ -5,3 +5,5 @@ Since 2001, Major League Baseball has hosted the “Beat the Streak” competiti
 In order to increase the likelihood of success in “Beat the Streak,” I will use predictive analytics on batter performance data from three years worth of individual regular season games to create a binary classification model. This model will try to determine the safest player selections on a given day to extend a streak.
 
 This GitHub repository contains a technical report that will walk you through the project and its findings, a data dictionary of all player statistics gathered and created, and a series of Jupiter notebooks with the project’s source code.
+
+https://docs.google.com/presentation/d/1ep_-tAXJO0UQ_B9z6PPD9XfjfPP82Tu76qNxdkB04FM/edit#slide=id.p
